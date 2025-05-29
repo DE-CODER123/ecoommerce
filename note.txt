@@ -1,1 +1,5 @@
 ===========GIT AND GITHUB============
+git status - at anytime
+git init - intialize an empty git repo or  folder
+git add . - add all my project in that project
+git commit -m "first commit" < -m stands for message and the message is "first commit" traditionally >
